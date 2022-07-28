@@ -3,6 +3,7 @@ The ground-state energy optimization demonstrations for randomly initialized mod
 
 # Install tensorflow's C++ interface
 *The following documentation is referenced from Deepmd-kit project (https://github.com/deepmodeling/deepmd-kit)*
+
 The tensorflow's C++ interface will be compiled from the source code. Firstly one installs bazel. It is highly recommended that the bazel version 0.24.1 is used. A full instruction of bazel installation can be found [here](https://docs.bazel.build/versions/master/install.html).
 ```bash
 cd /some/workspace
